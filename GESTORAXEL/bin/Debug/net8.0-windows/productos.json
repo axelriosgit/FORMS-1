@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "manzana",
+    "Precio": 43530.00,
+    "Stock": 167,
+    "Rubro": "Frutas"
+  },
+  {
+    "Id": 2,
+    "Nombre": "pera",
+    "Precio": 1122,
+    "Stock": 1,
+    "Rubro": "Frutas"
+  },
+  {
+    "Id": 4,
+    "Nombre": "banana",
+    "Precio": 333,
+    "Stock": 50,
+    "Rubro": "Verdura"
+  }
+]
